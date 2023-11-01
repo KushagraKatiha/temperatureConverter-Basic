@@ -1,0 +1,47 @@
+.body{
+    background-color: red;
+}
+
+.main{
+    background-color: aqua;
+    border: 5px solid black;
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+} */
+padding-left: 30px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+    font-size: 1rem;
+    border-radius: 3px;
+}
+.firstbox{
+    width: 200px;
+    height: 25px;
+}
+
+.opt1{
+    /* width: 200px; */
+    height: 25px;
+    padding: 1px 3px;
+}
+
+.opt2{
+    /* width: 200px; */
+    height: 25px;
+    padding: 1px 3px;
+}
